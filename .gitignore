@@ -1,0 +1,72 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Environment Files
+.env
+
+# DotNet specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Web
+node_modules/
+jspm_packages/
+bower_components/
+
+# Azure Pipeline
+.yarn/
+.pipelines/
+.azure-pipelines.yml
+.terraform.lock.hcl
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Coverage reports
+coverage/
+*.coverage
+*.coveragexml
+*.codecov
+
+# Backup & temp files
+*.bak
+*.swp
+*.temp
+*.tmp
+~$*
+# VSCode directories
+.vscode/
+.history/
